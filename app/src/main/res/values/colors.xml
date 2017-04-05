@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--原来的颜色：#3F51B5 #303F9F-->
+    <color name="colorPrimary">#483D8B</color>
+    <color name="colorPrimaryDark">#778899</color>
+    <!--原来的颜色：#FF4081 红-->
+    <color name="colorAccentText">#CD5C5C</color>
+    <!--原来的颜色：#90EE90 浅绿-->
+    <color name="colorAccent">#87CEFA</color>
+    <color name="color_white">#ffffff</color>
+    <color name="color_black">#000000</color>
+</resources>
